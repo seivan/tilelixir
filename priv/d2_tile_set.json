@@ -1,0 +1,12 @@
+{ "columns":5,
+ "image":"d2.bmp",
+ "imageheight":3264,
+ "imagewidth":320,
+ "margin":0,
+ "name":"d2_tile_set",
+ "spacing":0,
+ "tilecount":255,
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset"
+}
